@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-#container { background: #f2f2f2;}
+#container { background: pink; }
 
 .sub_header { position: absolute; width: 100%; height: 60px; border-bottom: 1px solid rgba(255,255,255,0.7); z-index: 5; }
 .sub_header_in { text-align: center; }
